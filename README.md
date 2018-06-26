@@ -20,7 +20,7 @@ DirectoryWatcher := TDirectoryWatcherBuilder
 DirectoryWatcher.Start;
 
 // Stop DirectoryWatcher
-DirectoryWatcher := Nil;
+DirectoryWatcher := nil;
 
 // ...
 
